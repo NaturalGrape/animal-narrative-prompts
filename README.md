@@ -8,7 +8,6 @@ You can use these prompts with *any* LLM provider (OpenAI, Anthropic, etc.) no m
 - `prompts/prompt_2a` — prompt used to generate narrative (gives more flamboyant results).
 - `prompts/prompt_2b` — more grounded consistent tone.
 - `prompts/prompt_3` — turns the narrative into dialogue and captions.
-- `examples/` — how to fill inputs and call an LLM.
 
 ## How to use
 1. Prepare a **request object** like `examples/example_request.json`.
